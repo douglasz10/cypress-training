@@ -1,0 +1,14 @@
+{
+    "chromeWebSecurity": false,
+    "ignoreTestFiles": "*.js",
+    "trashAssetsBeforeRuns": false,
+    "video": false,
+    "videosFolder": "cypress/videos",
+    "screenshotsFolder": "cypress/screenshots",
+    "videoCompression": 32,
+    "viewportWidth": 1366,
+    "viewportHeight": 768,
+    "numTestsKeptInMemory": 50,
+    "requestTimeout": 7000,
+    "responseTimeout": 30000
+}
